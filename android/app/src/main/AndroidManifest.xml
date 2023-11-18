@@ -2,7 +2,7 @@
     package="com.syoft.task.syoft_task">
     <uses-permission android:name="android.permission.INTERNET" />
    <application
-        android:label="syoft_task"
+        android:label="Syoft Task"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
